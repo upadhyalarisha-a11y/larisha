@@ -1,2 +1,1 @@
-i am from local repo 
-hello
+Local Repo
